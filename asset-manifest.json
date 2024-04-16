@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/randomuserapi/static/css/main.f029a054.css",
+    "main.js": "/randomuserapi/static/js/main.8c6d6d9a.js",
+    "static/js/453.258b012d.chunk.js": "/randomuserapi/static/js/453.258b012d.chunk.js",
+    "index.html": "/randomuserapi/index.html",
+    "main.f029a054.css.map": "/randomuserapi/static/css/main.f029a054.css.map",
+    "main.8c6d6d9a.js.map": "/randomuserapi/static/js/main.8c6d6d9a.js.map",
+    "453.258b012d.chunk.js.map": "/randomuserapi/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f029a054.css",
+    "static/js/main.8c6d6d9a.js"
+  ]
+}
